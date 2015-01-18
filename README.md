@@ -2,6 +2,8 @@
 
 > They say it all started out with a big bang. But, what I wonder is, was it a big bang or did it just seem big because there wasn't anything else drown it out at the time? - Karl Pilkington
 
+[![Gem Version](https://badge.fury.io/rb/mongoid-bigbang.svg)](http://badge.fury.io/rb/mongoid-bigbang)
+
 ## Why?
 
 When you have a project in which you are not using `Mongoid::Timestamps` and you want to mock an object's creation time, you have to do some cumbersome operations in order to get those first 4 bytes of the `ObjectId` to represent the seconds since the Unix epoch that you want for that object.
