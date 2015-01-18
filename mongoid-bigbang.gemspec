@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
     This gem solves this little annoying issue by generating a unique ID for the given timestamp \
     by using the other 8 bytes in ObjectId to generate the needed additional entropy.
   }
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/dnlserrano/mongoid-bigbang"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")

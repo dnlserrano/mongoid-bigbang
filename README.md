@@ -1,7 +1,6 @@
 # Mongoid::Bigbang
 
-> They say it all started out with a big bang. But, what I wonder is, was it a big bang or did it just seem big because there wasn't anything else drown it out at the time?
-> - Karl Pilkington
+> They say it all started out with a big bang. But, what I wonder is, was it a big bang or did it just seem big because there wasn't anything else drown it out at the time? - Karl Pilkington
 
 ## Why?
 
