@@ -2,7 +2,7 @@
 
 > They say it all started out with a big bang. But, what I wonder is, was it a big bang or did it just seem big because there wasn't anything else drown it out at the time? - Karl Pilkington
 
-[![Gem Version](https://badge.fury.io/rb/mongoid-bigbang.svg)](http://badge.fury.io/rb/mongoid-bigbang)
+[![Gem Version](https://badge.fury.io/rb/mongoid-bigbang.svg)](http://badge.fury.io/rb/mongoid-bigbang) [![Build Status](https://travis-ci.org/dnlserrano/mongoid-bigbang.svg?branch=master)](https://travis-ci.org/dnlserrano/mongoid-bigbang)
 
 ## Why?
 
